@@ -1,2 +1,9 @@
 pandas
 numpy
+psycopg
+requests
+json
+groq
+sentence-transformers
+streamlit
+python-dotenv
